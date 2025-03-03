@@ -1,6 +1,7 @@
 import './App.css';
-import SlideToUnlock from './projects/08-slide-to-unlock/SlideToUnlock';
-//import LightAndDarkMode from './projects/07-LightAndDarkMode/LightAndDarkMode';
+import SliderApp from './projects/09-slider/SliderApp';
+// import SlideToUnlock from './projects/08-slide-to-unlock/SlideToUnlock';
+// import LightAndDarkMode from './projects/07-LightAndDarkMode/LightAndDarkMode';
 // import AlertApp from './projects/05-Alerts/AlertApp';
 // import TemperatureControllerApp from './projects/06-temperature-controller/TemperatureControllerApp';
 // import TestimonialsApp from './projects/04-testimonials-app/TestimonialsApp';
@@ -18,7 +19,8 @@ function App() {
       {/* <AlertApp /> */}
       {/* <TemperatureControllerApp /> */}
       {/* <LightAndDarkMode /> */}
-      <SlideToUnlock />
+      {/* <SlideToUnlock /> */}
+      <SliderApp />
     </div>
   );
 }
