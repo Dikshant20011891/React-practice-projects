@@ -1,5 +1,8 @@
 import './App.css';
-import SliderApp from './projects/09-slider/SliderApp';
+import ProgressBarsApp from './projects/12-progress-bars/ProgressBarsApp';
+// import PopupApp from './projects/11-MagicPopup/PopupApp';
+// import HiddenSearchBarApp from './projects/10-hidden-search-bar/HiddenSearchBarApp';
+// import SliderApp from './projects/09-slider/SliderApp';
 // import SlideToUnlock from './projects/08-slide-to-unlock/SlideToUnlock';
 // import LightAndDarkMode from './projects/07-LightAndDarkMode/LightAndDarkMode';
 // import AlertApp from './projects/05-Alerts/AlertApp';
@@ -20,7 +23,10 @@ function App() {
       {/* <TemperatureControllerApp /> */}
       {/* <LightAndDarkMode /> */}
       {/* <SlideToUnlock /> */}
-      <SliderApp />
+      {/* <SliderApp /> */}
+      {/* <HiddenSearchBarApp /> */}
+      {/* <PopupApp /> */}
+      <ProgressBarsApp />
     </div>
   );
 }
