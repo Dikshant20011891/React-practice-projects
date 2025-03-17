@@ -1,5 +1,6 @@
 import './App.css';
-import RegForm from './projects/15-reg-form-validation/RegForm';
+import NotesApp from './projects/16-notes-app/NotesApp';
+// import RegForm from './projects/15-reg-form-validation/RegForm';
 // import FilterContactsApp from './projects/14-filter-contacts-app/FilterContactsApp';
 // import DialogBox from './projects/13-dialog-box/DialogBox';
 // import ProgressBarsApp from './projects/12-progress-bars/ProgressBarsApp';
@@ -32,7 +33,8 @@ function App() {
       {/* <ProgressBarsApp /> */}
       {/* <DialogBox /> */}
       {/* <FilterContactsApp /> */}
-      <RegForm />
+      {/* <RegForm /> */}
+      <NotesApp />
     </div>
   );
 }
