@@ -1,5 +1,6 @@
 import './App.css';
-import TextAnimationApp from './projects/18-text-animation/TextAnimationApp';
+import CompoundInterestCal from './projects/19-compound-interest-cal/CompoundInterestCal';
+// import TextAnimationApp from './projects/18-text-animation/TextAnimationApp';
 // import ResponsiveNav from './projects/17-responsive-nav/ResponsiveNav';
 // import NotesApp from './projects/16-notes-app/NotesApp';
 // import RegForm from './projects/15-reg-form-validation/RegForm';
@@ -38,7 +39,8 @@ function App() {
       {/* <RegForm /> */}
       {/* <NotesApp /> */}
       {/* <ResponsiveNav /> */}
-      <TextAnimationApp />
+      {/* <TextAnimationApp /> */}
+      <CompoundInterestCal />
     </div>
   );
 }
