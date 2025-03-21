@@ -62,4 +62,5 @@ const CompoundInterestCal = () => {
   )
 }
 
+
 export default CompoundInterestCal
