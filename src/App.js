@@ -1,5 +1,6 @@
 import './App.css';
-import CompoundInterestCal from './projects/19-compound-interest-cal/CompoundInterestCal';
+import SpacePenguinApp from './projects/20-space-penguin/SpacePenguinApp';
+// import CompoundInterestCal from './projects/19-compound-interest-cal/CompoundInterestCal';
 // import TextAnimationApp from './projects/18-text-animation/TextAnimationApp';
 // import ResponsiveNav from './projects/17-responsive-nav/ResponsiveNav';
 // import NotesApp from './projects/16-notes-app/NotesApp';
@@ -40,7 +41,8 @@ function App() {
       {/* <NotesApp /> */}
       {/* <ResponsiveNav /> */}
       {/* <TextAnimationApp /> */}
-      <CompoundInterestCal />
+      {/* <CompoundInterestCal /> */}
+      <SpacePenguinApp />
     </div>
   );
 }
