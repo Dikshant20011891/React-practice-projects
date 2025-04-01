@@ -1,5 +1,6 @@
 import './App.css';
-import CardGameUi from './projects/22-card-game-ui/CardGameUi';
+import PhoneBookApp from './projects/24-phone-book/PhoneBookApp';
+// import CardGameUi from './projects/22-card-game-ui/CardGameUi';
 // import TaskTrackerApp from './projects/21-task-tracker/TaskTrackerApp';
 // import SpacePenguinApp from './projects/20-space-penguin/SpacePenguinApp';
 // import CompoundInterestCal from './projects/19-compound-interest-cal/CompoundInterestCal';
@@ -46,7 +47,8 @@ function App() {
       {/* <CompoundInterestCal /> */}
       {/* <SpacePenguinApp /> */}
       {/* <TaskTrackerApp /> */}
-      <CardGameUi />
+      {/* <CardGameUi /> */}
+      <PhoneBookApp />
     </div>
   );
 }

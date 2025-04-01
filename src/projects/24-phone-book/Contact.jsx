@@ -24,7 +24,7 @@ const Contact = ({ icon, firstName, lastName, phoneNr}) => {
     <ContactStyle>
         <div>
             {!icon ? <FaUserAlt className='text-info'/> : 
-            <img src={icon}/>}
+            <img src={icon} alt='Image-Place'/>}
         </div>
         <div>{!firstName ? "John" : firstName }</div>
         <div>{!lastName ? "Smith" : lastName }</div>
